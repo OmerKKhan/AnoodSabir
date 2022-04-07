@@ -12,4 +12,10 @@
 
 int main() {
   std::cout << "Hello World!\n";
+  arrylength= sizeof(array)/sizeof([0]);
+  for(str i =0; i<arrylength; i++ )
+    {
+      str z = i;
+      for(str j-- ;j<arrylength; j=)
+    }
 }
